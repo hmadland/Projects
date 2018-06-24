@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/pc/Desktop/pc game monogames/Game1/Game1/Content/door.jpg</File>
+    <File>C:/Users/pc/Desktop/pc game monogames/Game1/Game1/Content/Walk (1).png</File>
+    <File>C:/Users/pc/Desktop/pc game monogames/Game1/Game1/Content/Walk (2).png</File>
+    <File>C:/Users/pc/Desktop/pc game monogames/Game1/Game1/Content/Walk (3).png</File>
+    <File>C:/Users/pc/Desktop/pc game monogames/Game1/Game1/Content/Walk (4).png</File>
+    <File>C:/Users/pc/Desktop/pc game monogames/Game1/Game1/Content/Walk (5).png</File>
+    <File>C:/Users/pc/Desktop/pc game monogames/Game1/Game1/Content/Walk (6).png</File>
+    <File>C:/Users/pc/Desktop/pc game monogames/Game1/Game1/Content/Walk (7).png</File>
+    <File>C:/Users/pc/Desktop/pc game monogames/Game1/Game1/Content/Walk (8).png</File>
+    <File>C:/Users/pc/Desktop/pc game monogames/Game1/Game1/Content/tinyWalk.png</File>
+    <File>C:/Users/pc/Desktop/pc game monogames/Game1/Game1/Content/grass.png</File>
+    <File>C:/Users/pc/Desktop/pc game monogames/Game1/Game1/Content/Score.spritefont</File>
+    <File>C:/Users/pc/Desktop/pc game monogames/Game1/Game1/Content/GameState.spritefont</File>
+    <File>C:/Users/pc/Desktop/pc game monogames/Game1/Game1/Content/start-splash.png</File>
+    <File>C:/Users/pc/Desktop/pc game monogames/Game1/Game1/Content/walk.png</File>
+    <File>C:/Users/pc/Desktop/pc game monogames/Game1/Game1/Content/fire.png</File>
+    <File>C:/Users/pc/Desktop/pc game monogames/Game1/Game1/Content/brown.png</File>
+  </SourceFiles>
+</SourceFileCollection>
