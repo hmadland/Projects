@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>C:/Users/pc/Desktop/pc game monogames/Game1/Game1/Content/Score.spritefont</SourceFile>
+  <SourceFile>C:/Users/pc/Desktop/pcGameMonogames/Game1/Game1/Content/Score.spritefont</SourceFile>
   <SourceTime>2018-06-23T17:18:17.3096228-07:00</SourceTime>
-  <DestFile>C:/Users/pc/Desktop/pc game monogames/Game1/Game1/Content/bin/Windows/Score.xnb</DestFile>
-  <DestTime>2018-06-23T17:23:17.6633818-07:00</DestTime>
+  <DestFile>C:/Users/pc/Desktop/pcGameMonogames/Game1/Game1/Content/bin/Windows/Score.xnb</DestFile>
+  <DestTime>2018-06-23T21:22:32.3197402-07:00</DestTime>
   <Importer>FontDescriptionImporter</Importer>
   <ImporterTime>2017-03-01T07:05:36-08:00</ImporterTime>
   <Processor>FontDescriptionProcessor</Processor>

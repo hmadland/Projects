@@ -40,3 +40,45 @@ C:\Users\pc\Desktop\pc game monogames\Game1\Game1\obj\x86\Debug\Game1.csprojAsse
 C:\Users\pc\Desktop\pc game monogames\Game1\Game1\bin\Windows\x86\Debug\Content\walk.xnb
 C:\Users\pc\Desktop\pc game monogames\Game1\Game1\bin\Windows\x86\Debug\Content\fire.xnb
 C:\Users\pc\Desktop\pc game monogames\Game1\Game1\bin\Windows\x86\Debug\Content\brown.xnb
+C:\Users\pc\Desktop\pcGameMonogames\Game1\Game1\bin\Windows\x86\Debug\Content\brown.xnb
+C:\Users\pc\Desktop\pcGameMonogames\Game1\Game1\bin\Windows\x86\Debug\Content\door.xnb
+C:\Users\pc\Desktop\pcGameMonogames\Game1\Game1\bin\Windows\x86\Debug\Content\fire.xnb
+C:\Users\pc\Desktop\pcGameMonogames\Game1\Game1\bin\Windows\x86\Debug\Content\GameState.xnb
+C:\Users\pc\Desktop\pcGameMonogames\Game1\Game1\bin\Windows\x86\Debug\Content\grass.xnb
+C:\Users\pc\Desktop\pcGameMonogames\Game1\Game1\bin\Windows\x86\Debug\Content\Score.xnb
+C:\Users\pc\Desktop\pcGameMonogames\Game1\Game1\bin\Windows\x86\Debug\Content\start-splash.xnb
+C:\Users\pc\Desktop\pcGameMonogames\Game1\Game1\bin\Windows\x86\Debug\Content\tinyWalk.xnb
+C:\Users\pc\Desktop\pcGameMonogames\Game1\Game1\bin\Windows\x86\Debug\Content\Walk (1).xnb
+C:\Users\pc\Desktop\pcGameMonogames\Game1\Game1\bin\Windows\x86\Debug\Content\Walk (2).xnb
+C:\Users\pc\Desktop\pcGameMonogames\Game1\Game1\bin\Windows\x86\Debug\Content\Walk (3).xnb
+C:\Users\pc\Desktop\pcGameMonogames\Game1\Game1\bin\Windows\x86\Debug\Content\Walk (4).xnb
+C:\Users\pc\Desktop\pcGameMonogames\Game1\Game1\bin\Windows\x86\Debug\Content\Walk (5).xnb
+C:\Users\pc\Desktop\pcGameMonogames\Game1\Game1\bin\Windows\x86\Debug\Content\Walk (6).xnb
+C:\Users\pc\Desktop\pcGameMonogames\Game1\Game1\bin\Windows\x86\Debug\Content\Walk (7).xnb
+C:\Users\pc\Desktop\pcGameMonogames\Game1\Game1\bin\Windows\x86\Debug\Content\Walk (8).xnb
+C:\Users\pc\Desktop\pcGameMonogames\Game1\Game1\bin\Windows\x86\Debug\Content\walk.xnb
+C:\Users\pc\Desktop\pcGameMonogames\Game1\Game1\bin\Windows\x86\Debug\Game1.exe
+C:\Users\pc\Desktop\pcGameMonogames\Game1\Game1\bin\Windows\x86\Debug\Game1.pdb
+C:\Users\pc\Desktop\pcGameMonogames\Game1\Game1\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\pc\Desktop\pcGameMonogames\Game1\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\pc\Desktop\pcGameMonogames\Game1\Game1\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\pc\Desktop\pcGameMonogames\Game1\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\pc\Desktop\pcGameMonogames\Game1\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\pc\Desktop\pcGameMonogames\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\pc\Desktop\pcGameMonogames\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\pc\Desktop\pcGameMonogames\Game1\Game1\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\pc\Desktop\pcGameMonogames\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\pc\Desktop\pcGameMonogames\Game1\Game1\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\pc\Desktop\pcGameMonogames\Game1\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\pc\Desktop\pcGameMonogames\Game1\Game1\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\pc\Desktop\pcGameMonogames\Game1\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\pc\Desktop\pcGameMonogames\Game1\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\pc\Desktop\pcGameMonogames\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\pc\Desktop\pcGameMonogames\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\pc\Desktop\pcGameMonogames\Game1\Game1\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\pc\Desktop\pcGameMonogames\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\pc\Desktop\pcGameMonogames\Game1\Game1\obj\x86\Debug\Game1.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\pcGameMonogames\Game1\Game1\obj\x86\Debug\Game1.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\pcGameMonogames\Game1\Game1\obj\x86\Debug\Game1.csproj.CopyComplete
+C:\Users\pc\Desktop\pcGameMonogames\Game1\Game1\obj\x86\Debug\Game1.exe
+C:\Users\pc\Desktop\pcGameMonogames\Game1\Game1\obj\x86\Debug\Game1.pdb

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>C:/Users/pc/Desktop/pc game monogames/Game1/Game1/Content/Walk (5).png</SourceFile>
+  <SourceFile>C:/Users/pc/Desktop/pcGameMonogames/Game1/Game1/Content/Walk (5).png</SourceFile>
   <SourceTime>2018-06-22T16:28:24.7686095-07:00</SourceTime>
-  <DestFile>C:/Users/pc/Desktop/pc game monogames/Game1/Game1/Content/bin/Windows/Walk (5).xnb</DestFile>
-  <DestTime>2018-06-23T17:01:41.2072753-07:00</DestTime>
+  <DestFile>C:/Users/pc/Desktop/pcGameMonogames/Game1/Game1/Content/bin/Windows/Walk (5).xnb</DestFile>
+  <DestTime>2018-06-23T21:22:30.2907243-07:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2017-03-01T07:05:36-08:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

@@ -5,7 +5,7 @@ This is a where I'll be keeping tutorial projects and other random things I buil
 All the code seen here can be found in my [repository](https://github.com/hmadland/Projects)
 
 ### Projects
-* [Playing With MonoGame](https://hmadland.github.io/Projects/journal1.html)
+* [Playing With MonoGame](https://hmadland.github.io/Projects/monoGame.html)
 
 
 
