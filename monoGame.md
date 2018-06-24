@@ -6,10 +6,6 @@ and handle user input.
 
 ![](img/away.JPG?raw=true)
 
-![](img/running.JPG?raw=true)
-
-![](img/running2.JPG?raw=true)
-
 ![](img/gameOver.JPG?raw=true)
 
 ### Code Repository
