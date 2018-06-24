@@ -4,9 +4,7 @@ and handle user input.
 
 ![](..img/gameStart.JPG?raw=true)
 
-
-![](img/away.JPB?raw=true)
-
+![](img/away.JPG?raw=true)
 
 ![](img/running.JPG?raw=true)
 
